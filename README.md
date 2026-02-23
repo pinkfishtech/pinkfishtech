@@ -1,16 +1,31 @@
-## Hi there 👋
+## PINK FISH
+### Official Website
 
-<!--
-**pinkfishtech/pinkfishtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="pink_fish_icon.png" width="300" alt="PINK FISH icon">
 
-Here are some ideas to get you started:
+#### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PINK FISH is a sole proprietorship based in Japan, founded in 2026.
+
+We design and develop mobile applications, SaaS products, and digital technology solutions.
+
+#### Address
+
+7F Nihonbashi Mizuno Building
+1-11-12 Nihonbashi Muromachi
+Chuo-ku, Tokyo 103-0022
+Japan
+
+#### Contact
+
+pinkfish.tech@gmail.com
+
+#### Services
+
+- Mobile Application Development
+- SaaS Product Planning
+- IT Consulting
+- Cloud & Data Solutions
+
+#### Skills
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
